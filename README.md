@@ -26,7 +26,7 @@ Python_Installer.exe
 ### Examples:  
 | Package |Version |
 | ---          |     ---      |
-| To install Python 3.9.6 | `Python_Installer.exe --install 3.9.6` |
+| To install Python 3.9.7 | `Python_Installer.exe --install 3.9.7` |
 | To install Python Library | `Python_Installer.exe --library` |
 | To install Python 3.8.11 + libraries | `Python_Installer.exe --install 3.8.11 --library` |
 | To reset environment variables | `Python_Installer.exe --reset` |
