@@ -6,6 +6,7 @@ Windows x64
 <br>
 
 ### For installation:
+* To download and install Python 3.10.x only ... [download link](https://e1.pcloud.link/publink/show?code=XZH2YFZzG9xS7jWpoVyEEU2MN6hlSr1bqPX)
 * Download Python_Installer.exe
 * Run and select the python version you want.
 
