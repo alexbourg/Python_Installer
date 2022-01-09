@@ -12,7 +12,8 @@ Windows x64
 
 ### Silent Installation:
 ```cmd
-Python_Installer.exe --install 3.10.0 --library
+start /w Python-Installer-3.0.6-x64 /exenoui /qn
+start /w C:\Program64\Python\DONT_DELETE\Python_Installer.exe --install 3.10.1 --library
 ```
 
 <br>  
